@@ -10,6 +10,7 @@ Un documento .csv con entidades, valores y sinónimos para Watson Assistant en e
 - [x] Comidas del país
 - [x] Colores
 - [x] Lazos sociales
+- [ ] Considerar el léxico básico del español de Chile
 - [ ] Gentilicios por comuna de Chile
 - [ ] Religiones del mundo
 - [ ] Compañías del mundo y Chile
